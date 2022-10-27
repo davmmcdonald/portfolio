@@ -1,1 +1,2 @@
 # portfolio
+This is my development portfolio. I am starting it at the beginning of my journey because I want it to be a culmination of everything I've learned—an ongoing project that matures as I learn more advanced concepts.
